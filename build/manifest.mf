@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_101-b13 (Oracle Corporation)
+X-COMMENT: Main-Class will be added automatically by build
+Trusted-Only: true
+Codebase: /Users/cody/NetBeansProjects/dataCalculator/dist
+Application-Library-Allowable-Codebase: /Users/cody/NetBeansProjects/d
+ ataCalculator/dist
+Caller-Allowable-Codebase: /Users/cody/NetBeansProjects/dataCalculator
+ /dist
+Permissions: all-permissions
+Application-Name: dataCalculator
+

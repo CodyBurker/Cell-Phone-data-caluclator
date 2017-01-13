@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="launch.jnlp" spec="7.0+">
+    <information>
+        <title>dataCalculator</title>
+        <vendor>Cody Burker</vendor>
+        <homepage href=""/>
+        <description>dataCalculator</description>
+        <description kind="short">dataCalculator</description>
+    <offline-allowed/>
+</information>
+    <update check="background"/>
+    <security>
+<all-permissions/>
+</security>
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="dataCalculator.jar" main="true"/>
+    </resources>
+    <application-desc main-class="my.calculator.dataCalculatortest1">
+    </application-desc>
+</jnlp>
